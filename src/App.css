@@ -1,0 +1,53 @@
+.button{
+    color: white;
+    font-family: 'Lucida Sans';
+    background-color: gray;
+    padding: 15px 25px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 630px
+}
+
+
+.button:hover{
+    background-color: rgb(173, 162, 162);
+}
+
+.div{
+    color:darkblue;
+    font-family: 'Segoe UI';
+    font-size:15px;
+    border-color: blueviolet;
+    border-style: inset;
+    padding: 15px;
+    width: 150px;
+    margin-top: 15px;
+    margin-left:15px;
+}
+
+.person{
+    display:inline-block;
+    margin:10px;
+    border:1px solid gray;
+    box-shadow: 0 2px 2px darkgray;
+    width:200px;
+}
+
+.user1{
+    text-align: center;
+    border: 10px solid rgb(218, 214, 214);
+    padding: 50px;
+    background-color: rgb(243, 237, 237);
+    width: 300px;
+    margin-left: 470px;
+}
+
+
+.user{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+
+}
